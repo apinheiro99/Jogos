@@ -2,4 +2,6 @@ banana
 melancia
 morango
 maça
-Maracuja
+maracuja
+melao
+jabuticaba
