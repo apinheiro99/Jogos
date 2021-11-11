@@ -6,3 +6,4 @@ maracuja
 melao
 jabuticaba
 laranja
+caja
