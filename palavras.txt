@@ -5,3 +5,4 @@ maça
 maracuja
 melao
 jabuticaba
+laranja
